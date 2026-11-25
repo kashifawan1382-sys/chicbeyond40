@@ -137,3 +137,8 @@ footer.site nav.footer-links a:hover{color:var(--accent);opacity:1}
 .breadcrumb{font-size:.86rem;color:var(--muted);margin:22px 0 8px;font-family:var(--sans)}
 .breadcrumb a{color:var(--muted)}
 .meta{color:var(--muted);font-size:.9rem;margin-bottom:14px;font-family:var(--sans)}
+
+/* Real images (replaced PHOTO placeholders) */
+.card-img{width:100%;aspect-ratio:16/9;object-fit:cover;object-position:top;display:block}
+.post-hero{width:100%;max-width:430px;aspect-ratio:2/3;object-fit:cover;object-position:top;border-radius:12px;display:block;margin:22px auto}
+.wide-img{width:100%;aspect-ratio:16/9;object-fit:cover;object-position:top;border-radius:12px;display:block;margin:22px 0}
