@@ -142,3 +142,4 @@ footer.site nav.footer-links a:hover{color:var(--accent);opacity:1}
 .card-img{width:100%;aspect-ratio:16/9;object-fit:cover;object-position:top;display:block}
 .post-hero{width:100%;max-width:430px;aspect-ratio:2/3;object-fit:cover;object-position:top;border-radius:12px;display:block;margin:22px auto}
 .wide-img{width:100%;aspect-ratio:16/9;object-fit:cover;object-position:top;border-radius:12px;display:block;margin:22px 0}
+.outfit-img{width:100%;max-width:560px;aspect-ratio:4/5;object-fit:cover;object-position:top;border-radius:12px;display:block;margin:14px 0 18px}
