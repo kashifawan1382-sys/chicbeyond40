@@ -1,119 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Sitemap for Chic Beyond 40.
-     While the site runs on the free github.io address, these URLs still use
-     https://chicbeyond40.com/ because that is the final canonical domain.
-     If you submit the sitemap to Google Search Console BEFORE the domain is
-     attached, temporarily change the domain below to the live github.io
-     address, then change it back when chicbeyond40.com goes live.
-     Add one <url> block for every new post / category page you publish. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://chicbeyond40.com/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/</loc>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/posts/tummy-friendly-fall-outfits-over-40.html</loc>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/about.html</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://chicbeyond40.com/posts/winter-capsule-wardrobe-over-50.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://chicbeyond40.com/posts/how-to-wear-cardigans-without-looking-frumpy.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://chicbeyond40.com/posts/work-outfits-for-women-over-40.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://chicbeyond40.com/posts/winter-outfits-for-women-over-50.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://chicbeyond40.com/posts/dresses-for-women-over-50.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://chicbeyond40.com/posts/christmas-outfits-for-women-over-50.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://chicbeyond40.com/posts/jeans-outfits-for-women-over-50.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://chicbeyond40.com/categories/fall-outfits.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chicbeyond40.com/about.html</loc>
-    <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/contact.html</loc>
-    <changefreq>yearly</changefreq>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/contact.html</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/privacy-policy.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/privacy-policy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/affiliate-disclosure.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/affiliate-disclosure.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/categories/christmas-outfits.html</loc>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/posts/tummy-friendly-fall-outfits-over-40.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/posts/winter-capsule-wardrobe-over-50.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/posts/how-to-wear-cardigans-without-looking-frumpy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/posts/work-outfits-for-women-over-40.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/posts/winter-outfits-for-women-over-50.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/posts/jeans-outfits-for-women-over-50.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/posts/christmas-outfits-for-women-over-50.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/posts/dresses-for-women-over-50.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/categories/fall-outfits.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/categories/dresses.html</loc>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/categories/christmas-outfits.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/categories/tummy-friendly.html</loc>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/categories/dresses.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/categories/capsule-wardrobe.html</loc>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/categories/tummy-friendly.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/categories/style-guide.html</loc>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/categories/capsule-wardrobe.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/categories/work-outfits.html</loc>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/categories/style-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/categories/winter-outfits.html</loc>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/categories/work-outfits.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chicbeyond40.com/categories/outfit-ideas-over-50.html</loc>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/categories/winter-outfits.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kashifawan1382-sys.github.io/chicbeyond40/categories/outfit-ideas-over-50.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

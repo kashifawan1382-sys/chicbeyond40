@@ -9,4 +9,4 @@ Disallow: /category-template.html
 # When chicbeyond40.com is attached, this is the correct sitemap line.
 # While running on the free github.io address, replace the domain below
 # with the live github.io address.
-Sitemap: https://chicbeyond40.com/sitemap.xml
+Sitemap: https://kashifawan1382-sys.github.io/chicbeyond40/sitemap.xml
